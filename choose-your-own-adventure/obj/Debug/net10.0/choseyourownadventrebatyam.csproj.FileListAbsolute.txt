@@ -1,0 +1,4 @@
+C:\Users\talzi\source\repos\choseyourownadventrebatyam\choseyourownadventrebatyam\obj\Debug\net10.0\choseyourownadventrebatyam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\talzi\source\repos\choseyourownadventrebatyam\choseyourownadventrebatyam\obj\Debug\net10.0\choseyourownadventrebatyam.AssemblyInfoInputs.cache
+C:\Users\talzi\source\repos\choseyourownadventrebatyam\choseyourownadventrebatyam\obj\Debug\net10.0\choseyourownadventrebatyam.AssemblyInfo.cs
+C:\Users\talzi\source\repos\choseyourownadventrebatyam\choseyourownadventrebatyam\obj\Debug\net10.0\choseyourownadventrebatyam.csproj.CoreCompileInputs.cache

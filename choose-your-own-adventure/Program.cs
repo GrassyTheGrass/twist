@@ -1,0 +1,23 @@
+﻿< !DOCTYPE html >
+< html >
+
+    < head >
+
+        < title >
+            
+        </ title >
+
+    </ head >
+
+    < body dir = "rtl" >
+
+        < p >< a href = "hello.html" target = "_blank" > דוגמה בסיסית </ a ></ p >
+
+        < p >< a href = "text.html" target = "_blank" > דוגמה לטקסט </ a ></ p >
+
+        < p >< a href = "links.html" target = "_blank" > דוגמה לקישורים </ a ></ p >
+
+        < p >< a href = "refresh.html" target = "_blank" > דוגמה לטעינת עמוד אחר - ריפרש</a></p>
+		
+	</body>
+</html>Console.WriteLine("Hello, World!");
